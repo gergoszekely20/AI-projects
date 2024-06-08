@@ -1,0 +1,8 @@
+EDA links
+
+
+1. https://www.geeksforgeeks.org/what-is-exploratory-data-analysis/
+2. https://www.geeksforgeeks.org/matplotlib-tutorial/
+3. https://www.kaggle.com/discussions/general/231317
+4. https://www.kaggle.com/code/ekami66/detailed-exploratory-data-analysis-with-python
+
